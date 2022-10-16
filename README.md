@@ -28,7 +28,6 @@ The programming languages used include Javascript, HTM, and CSS. The Javascript 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Chemistry JSON Reference](https://github.com/Bowserinator/Periodic-Table-JSON.git)
 * [REACT](https://reactjs.org/)
 * [REACT Youtube Tutorial](https://www.youtube.com/watch?v=hQAHSlTtcmY&ab_channel=WebDevSimplified)
