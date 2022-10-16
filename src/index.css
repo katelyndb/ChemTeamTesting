@@ -1,0 +1,29 @@
+/* General Stuff */
+html {box-sizing: border-box;}
+body {font-family: 'Helvetica', sans-serif; margin:0;}
+h1,h2,h3,h4 {font-family:'Helvetica', cursive; margin:2% 0; color: darkcyan;}
+h1 {font-size: 45px;} h2 {font-size: 30px;} h3 {font-size: 25px;} h4 {font-size: 20px;}
+p {font-size: 17px;}
+hr {border:0; border-top:2px dashed; margin:5% 0;}
+.small_padding {padding: 1% 2%;}
+.medium_padding {padding: 3% 6%;}
+.large_padding {padding: 6% 12%;}
+.centered_item {width:auto; text-align:center;}
+.rotated_item {transform: rotate(90deg);}
+.text_link {color: inherit; text-decoration: inherit; }
+/*----*/
+
+
+/* Index Page */
+h1 {color:blueviolet;}
+section {border-radius: 8px;display: block;padding: .50rem;text-align: center;border: 3px solid rgba(3, 3, 10, 0.212);width: 100%; background-color: #dbfbff; margin: auto;}
+label {font-size: 22px;}
+button {font-size: 18px;}
+input {font-size: 15px;}
+a {border: 3px solid rgba(3, 3, 10, 0.212); margin: 0 auto;width:50%;border-radius: 8px; display:block; padding:10%; font-size: 25px; background-color: white; text-decoration: none;}
+/*----*/
+
+
+/* Lovely Colors */
+body {background-color: #fde3ff;}
+/*----*/
